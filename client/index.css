@@ -1,5 +1,11 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: antiquewhite;
+    background-color: rgb(218, 127, 127);
+}
+
+#welcomeHeading{
+    font-family: monospace;
+    font-size: large;
+    letter-spacing: 1px;
 }
